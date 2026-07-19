@@ -1,7 +1,5 @@
 ### Hi there, I'm Prateek👋
 
-
-
 🚀 About Me
 
 I'm a passionate Electronics & Communication Engineering undergraduate who enjoys building projects at the intersection of Electronics and Software Development. I love transforming ideas into practical solutions using modern technologies.
@@ -9,8 +7,6 @@ I'm a passionate Electronics & Communication Engineering undergraduate who enjoy
 🎓 B.Tech in Electronics & Communication Engineering
 💻 Learning Data Structures & Algorithms
 🌐 Exploring Full-Stack Development with Django
-⚡ Interested in Embedded Systems, PCB Design, MATLAB, and Power Electronics
-🔋 Currently researching High-Efficiency Bidirectional DC-DC Converters for EV Battery Systems
 🌱 Always learning something new and building projects
 🤝 Open to collaborating on open-source and engineering projects
 ### Connect with me:
