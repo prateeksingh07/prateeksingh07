@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to play games. :)
 
 ### Connect with me:
